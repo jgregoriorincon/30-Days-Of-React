@@ -22,7 +22,7 @@
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-|00|[Introduction](#introduction)<br> [How to Use Repo](#how-to-use-repo)<br> [Requirements](#requirements)<br> [Setup](#setup)|
+|00|[Introducción](#introduction)<br> [Como usar este repositorio](#how-to-use-repo)<br> [Requerimientos](#requirements)<br> [Setup](#setup)|
 |01|[JavaScript Refresher](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)|
 |02|[Getting Started React](./02_Day_Introduction_to_React/02_introduction_to_react.md)|
 |03|[Setting Up](./03_Day_Setting_Up/03_setting_up.md)|
@@ -52,7 +52,7 @@
 |27|[Ref](./27_Ref/27_ref.md)|
 |28|[project](./28_project/28_project.md)|
 |29|[Explore](./29_explore/29_explore.md)|
-|30|[Conclusions](./30_conclusions/30_conclusions.md)|
+|30|[Conclusiones](./30_conclusions/30_conclusions.md)|
 
 
 
